@@ -37,5 +37,4 @@ public class Firma {
         for (Employee1 e : sotr) {
             System.out.println(e.surname + "\t" + e.name + "\t" + e.patronymic + "\t" + e.position + "\t\t" + e.salary);
         }
-    }
-}
+    }}

@@ -57,4 +57,5 @@ public class RecSotr1 {
                 System.out.println("\t\t\t"+ r.nameR+ "\t\t"+ r.ageR);
             System.out.println();
         }
-    } }
+    }
+}
